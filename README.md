@@ -129,7 +129,7 @@ If you use this work in your research, please cite it as:
 Arjun R
 Robotics and Automation Engineer
 Rajalakshmi Engineering College, Chennai
-📧 Email: itsrarjun@outlook.com
+📧 Email: itsrarjun@gmail.com
 
 🌐 Medium — @itsrarjun
 
