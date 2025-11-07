@@ -1,0 +1,6 @@
+mujoco
+mujoco-python-viewer
+torch
+numpy
+matplotlib
+tqdm
